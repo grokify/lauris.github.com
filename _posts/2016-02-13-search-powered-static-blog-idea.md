@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Life is what happens"
+title: "Static Knowledgebase Idea"
 category: meta
-permalink: /life-is-what-happens
-related: ["My biggest challenges as a startup founder", "Work and open source", "Today was a fine day"]
+permalink: /static-knowledgebase-idea
 ---
 
-It has been a long time since my last blog post here. To be more precise it has been 72 days without a blog post.
-That's a huge gap considering that previously I published a blog post every day. Finally the Christmas time has come and I got time to reflect on the past two months and all the things that has happened.
+I was recently thinking about Developer Platform focused knowledgebases thought it would be neat to either create or augment a static blog engine that is essentially a markdown powered knowledgebase.
+
+The idea is to create a static knowledgebase engine using the concept for static blog engines like Jekyll, Octopress and Hugo. The differenes would be: layout and search support.
 
 <!-- more -->
 

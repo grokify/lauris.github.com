@@ -1,11 +1,11 @@
 # Site settings
-title: lauris.github.io
-email: lauris@discuss.lv
-description: "Personal blog about programming, hacking, open-source, startups, git, vim, linux, etc."
+title: grokify.github.io
+email: johncwang@gmail.com
+description: "Personal blog about product management, engineering, hacking, open-source, startups, etc."
 baseurl: ""
-url: "https://lauris.github.io"
-twitter_username: lauriswat
-github_username:  lauris
+url: "https://grokify.github.io"
+twitter_username: grokify
+github_username:  grokify
 
 # Build settings
 markdown: kramdown
